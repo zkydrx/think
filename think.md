@@ -68,4 +68,5 @@
 66. 胸怀天下，拥抱变化
 67. 吃一堑长一智
 68. 家，是个哲学问题
-69. it is good!
+69. it is good
+70. python is a wonderful language
