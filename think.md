@@ -70,3 +70,4 @@
 68. 家，是个哲学问题
 69. it is good
 70. python is a wonderful language
+71. 如果没有做好准备，那也就不配拥有，没啥好说的
