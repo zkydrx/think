@@ -71,3 +71,4 @@
 69. it is good
 70. python is a wonderful language
 71. 如果没有做好准备，那也就不配拥有，没啥好说的
+72. 没有什么迈步过去的坎，加油
