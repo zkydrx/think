@@ -79,3 +79,4 @@
 77. 永远年轻，永远热泪盈眶
 78. 如果一行代码搞不定，那就写两行
 79. Better and better
+80. Believe yourself all the time
