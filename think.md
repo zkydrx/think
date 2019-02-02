@@ -80,3 +80,4 @@
 78. 如果一行代码搞不定，那就写两行
 79. Better and better
 80. Believe yourself all the time
+81. Do not forget your responsibility
