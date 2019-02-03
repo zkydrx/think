@@ -81,3 +81,4 @@
 79. Better and better
 80. Believe yourself all the time
 81. Do not forget your responsibility
+83. Brave and strang
