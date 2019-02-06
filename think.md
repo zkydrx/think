@@ -82,3 +82,4 @@
 80. Believe yourself all the time
 81. Do not forget your responsibility
 83. Brave and strang
+84. To be number one
