@@ -85,3 +85,4 @@
 84. To be number one
 85. Surprise
 86. Be young all the time
+87. 保持平常心
