@@ -86,3 +86,4 @@
 85. Surprise
 86. Be young all the time
 87. 保持平常心
+88. 认真做自己
