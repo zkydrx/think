@@ -92,3 +92,4 @@
 91. end of the problem here
 92. heath is the important
 93. 负前前行
+94. 欲速则不达，适可而止
