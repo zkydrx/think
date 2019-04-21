@@ -95,3 +95,4 @@
 94. 欲速则不达，适可而止
 95. 身体是革命的本钱，所以要好好锻练身体
 96. 敏捷思考，灵活应对
+97. Talk is cheap. Show me the code (Linus Torvalds)
