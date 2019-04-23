@@ -96,3 +96,4 @@
 95. 身体是革命的本钱，所以要好好锻练身体
 96. 敏捷思考，灵活应对
 97. Talk is cheap. Show me the code (Linus Torvalds)
+98. 重要紧急，重要不紧急，紧急不重要，不紧急不重要
