@@ -98,3 +98,4 @@
 97. Talk is cheap. Show me the code (Linus Torvalds)
 98. 重要紧急，重要不紧急，紧急不重要，不紧急不重要
 99. 多给自己留条后路
+100. 三人行必有我师焉
